@@ -1,4 +1,4 @@
-<img src="https://github.com/yourusername/yourrepo/raw/main/header.png" alt="Doaa Ali GitHub README header image">
+<img src="image7.jpg" alt="Doaa Ali GitHub README header image">
 
 <p>
 <a href="https://twitter.com/yourprofile"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a>
