@@ -1,6 +1,6 @@
 <!-- ================= HEADER ================= -->
 <p align="center">
-  <img src="C:\Users\PC\Pictures\Saved Pictures\image3.jpg" alt="دعاء علي - ذكاء اصطناعي" width="100%" />
+  <img src="image3.jpg" alt="دعاء علي - ذكاء اصطناعي" width="100%" />
 </p>
 
 <h1 align="center">مرحبًا! أنا دعاء علي 👋</h1>
