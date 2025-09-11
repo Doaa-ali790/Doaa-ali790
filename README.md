@@ -1,6 +1,6 @@
 <!-- ================= HEADER ================= -->
 <p align="center">
-  <img src="هimage3.jpg" 
+  <img src="image3.jpg" 
        alt="دعاء علي - ذكاء اصطناعي" 
        width="100%" />
 </p>
