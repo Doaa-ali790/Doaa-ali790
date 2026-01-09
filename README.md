@@ -57,4 +57,4 @@ Hi, I’m **Doaa Ali** 👋  
 ## 🤝 Let’s Connect
 I’m always open to collaboration and discussions about AI & Data Science.  
 Feel free to connect with me through my socials above 👆
- انظر هذا الكود حق تصميم الصفحة لماذا لا تظهر الصوره 
+  
