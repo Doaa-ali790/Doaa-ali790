@@ -1,4 +1,7 @@
-<img src="image1.jpg" alt="Doaa Ali GitHub README header image">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Doaa-ali790/Doaa-ali790/main/image1.jpg" alt="Doaa Ali GitHub README header image">
+</p>
+
 <p align="center">
   <a href="https://twitter.com/yourprofile"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a>
   <a href="https://www.linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
