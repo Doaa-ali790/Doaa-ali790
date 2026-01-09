@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/23dd63f6-7b49-42f0-a705-a6adc507b301" alt="Doaa Ali GitHub README header image" width="70%">
+  <img src="https://github.com/user-attachments/assets/23dd63f6-7b49-42f0-a705-a6adc507b301" alt="Doaa Ali GitHub README header image" height="150">
 </p>
 
 <p align="center">
