@@ -1,5 +1,7 @@
 
-![image1](https://github.com/user-attachments/assets/23dd63f6-7b49-42f0-a705-a6adc507b301)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/23dd63f6-7b49-42f0-a705-a6adc507b301" alt="Doaa Ali GitHub README header image" width="50%">
+</p>
 
 <p align="center">
   <a href="https://twitter.com/yourprofile"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a>
